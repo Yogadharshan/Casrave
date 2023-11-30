@@ -1,0 +1,38 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px !important;
+}
+
+li {
+    font-family: "roboto", sans-serif;
+    font-weight: 400;
+}
+
+body {
+    color: white !important;
+    font-weight: bolder;
+}
+
+h1 {
+    font-family: "roboto", sans-serif;
+    font-weight: bold;
+    font-size: 60px !important;
+}
+
+.to {
+    color: grey;
+}
+
+.earn {
+    color: rgb(100, 100, 100);
+}
+
+.intro {
+    display: block;
+    align-items: center;
+    justify-content: left;
+    padding-top: 250px;
+    padding-left: 100px;
+}
