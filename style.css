@@ -1,0 +1,92 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px !important;
+}
+
+li {
+    font-family: "roboto", sans-serif;
+    font-weight: 400;
+}
+
+body {
+    color: white !important;
+    font-weight: bolder;
+}
+
+h1 {
+    font-family: "roboto", sans-serif;
+    font-weight: bold;
+    font-size: 60px !important;
+}
+
+.to {
+    color: grey !important;
+}
+
+.earn {
+    color: rgb(100, 100, 100);
+}
+
+.intro {
+    display: block;
+    align-items: center;
+    justify-content: left;
+    padding-top: 250px;
+    padding-left: 100px;
+}
+
+.finance {
+    color: rgb(80, 77, 77);
+}
+
+.optimise {
+    color: white !important;
+}
+
+.pitch {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.tracking {
+    color: rgb(85, 85, 85);
+}
+
+.intro-1 {
+    display: block;
+    align-items: center;
+    justify-content: left;
+    padding-left: 100px;
+    padding-bottom: 250px;
+
+}
+
+.container-fluid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.logo {
+    padding-top: 300px;
+    height: 60%;
+    width: 66%;
+    padding-bottom: 20px;
+}
+
+.logo-1 {
+    height: 30px !important;
+    width: 100px!important;
+}
+
+.tracking-money {
+    border-radius: 30px;
+    height: 600px;
+    width: 600x;
+    padding-top: 150px;
+    padding-right: 150px;
+}
